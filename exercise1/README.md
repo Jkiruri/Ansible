@@ -1,0 +1,1 @@
+creating an inventory file
